@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1725215204 source:c:\users\naim\documents\naim program 4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1725898927 source:c:\users\naim\documents\naim project 4\main.c
+	<stdio.h>
+	<stdlib.h>
+

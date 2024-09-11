@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725879048 source:c:\users\naim\documents\naim add number function\main.c
+	<stdio.h>
+	<stdlib.h>
+
